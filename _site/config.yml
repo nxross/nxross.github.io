@@ -1,0 +1,13 @@
+title: nxross
+email: nxross@outlook.com
+
+description: >-
+  My notes
+
+baseurl: ''
+url: 'https//nxross.github.io'
+
+plugins:
+- jekyll-feed
+
+permalink: none
